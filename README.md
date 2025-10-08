@@ -63,7 +63,7 @@ int main(int argc, char **argv) {
 		file = fopen(argv[1], "r"); 
 	if (!file) {
 		printf("could not open %s \n", argv[1]);
-		exit(0);
+		exit(0); 
 		}
 	yyin = file;
 	}
