@@ -12,7 +12,7 @@
      b.	Translation rules %%
 
      c.	Auxilary procedure.
-
+ 
 3.	The declaration section includes declaration of variables, maintest, constants and regular definitions.
 4.	Translation rule of lex program are statements of the form
 
